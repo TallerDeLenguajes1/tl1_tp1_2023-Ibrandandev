@@ -1,4 +1,4 @@
-#Tp 01 Taller de Lenguajes
+# Tp 01 Taller de Lenguajes
 
 2.  **Git Ignore**: Archivo de texto que le dice a Git qué archivos o carpetas ignorar en un proyecto. Debemos incluirlo en la raiz del directorio una vez creado nuestro proyecto. <br><br>
     **Patrones de gitignore:**
